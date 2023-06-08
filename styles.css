@@ -1,0 +1,46 @@
+body{
+    background-color:skyblue;
+}
+
+div{
+    position:absolute;
+
+    width:300px;
+    left:40%;
+    top:25%;
+    border-radius: 10px;
+    width: 300px;
+    background-color:aliceblue;
+    text-align: center;
+    
+    
+}
+
+h1{
+  
+   letter-spacing: 4px;
+}
+
+
+input{
+    width: 90%;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+button {
+    padding: 10px;
+    width: 44%;
+    border-radius:10px;
+    
+    /* font-size: medium; */
+}
+
+.refresh-word{
+    background-color: darkgray;
+}
+
+.check-word{
+    background-color:cornflowerblue;
+}
